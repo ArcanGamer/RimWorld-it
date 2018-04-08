@@ -10,7 +10,7 @@
 	<titleShort>Soldato(essa)</titleShort>
 	<desc>NAME è un(a) soldato(essa) di fanteria.
 
-Quando fu informato(a) del suo(a) assegnamento alla Xennoa-Zartza War, ha deciso di non voler diventare un(a) soldato (essa). HECAP è riuscito(a) a scappare grazie ad un jetpack militare.</desc>
+Quando fu informato(a) del suo assegnamento alla Guerra di Xennoa-Zartza, ha deciso di non voler diventare un(a) soldato (essa). HECAP è riuscito(a) a scappare grazie ad un jetpack militare.</desc>
 </AWOLSoldier26>	
 	
 <Assassin35>
@@ -22,7 +22,7 @@ Quando fu informato(a) del suo(a) assegnamento alla Xennoa-Zartza War, ha deciso
 <AsceticPriest87>
 	<title>Monaco asceta</title>
 	<titleShort>Monaco</titleShort>
-	<desc>Dopo aver fatto un voto di silenzio, NAME si è unito(a) ad un monastero su tranquillo pianeta acquatico per trascorrere i suoi giorni in una serena contemplazione. HECAP trovo' la felicita' facendo crescere ortaggi nel giardino e producendo formaggi nelle cantine del monastero.</desc>
+	<desc>Dopo aver fatto un voto di silenzio, NAME si è unito(a) ad un monastero su un tranquillo pianeta acquatico per trascorrere i suoi giorni in una serena contemplazione. HECAP trovo' la felicita' facendo crescere ortaggi nel giardino e producendo formaggi nelle cantine del monastero.</desc>
 </AsceticPriest87>
 
 <ApocalypseSurvivor86>
@@ -40,7 +40,7 @@ Quando fu informato(a) del suo(a) assegnamento alla Xennoa-Zartza War, ha deciso
 <Architect11>
 	<title>Architetto</title>
 	<titleShort>Architetto</titleShort>
-	<desc>NAME ha progettato e costruito edifici. Nella sua casa su un Mondo Splendente, la maggior parte degli aspetti tecnici dell'architettura erano gestiti da una IA. Questo gli ha permesso di spingere i limiti artistici del mestiere, ma ha anche comportato che HE non si sia mai sporcato(a) le mani sui cantieri.</desc>
+	<desc>NAME ha progettato e costruito edifici. Nella sua casa su un Mondo Splendente, la maggior parte degli aspetti tecnici dell'architettura erano gestiti da una IA. Questo gli ha permesso di spingersi ai limiti artistici del mestiere, ma ha anche comportato che HE non si e' mai sporcato(a) le mani sui cantieri.</desc>
 </Architect11>
 
 <AbandonedChild27>
@@ -52,31 +52,31 @@ Quando fu informato(a) del suo(a) assegnamento alla Xennoa-Zartza War, ha deciso
 <ArmyCook51>
 	<title>Cuoco soldato</title>
 	<titleShort>Cuoco</titleShort>
-	<desc>Ben si uni' all'esercito come lavoratore e trascorse la maggior parte del suo tempo a cucinare ed a fare riparazioni. Mentre era di stanza su un pianeta pericoloso, lui si sottopose ad un addestramento basilare di tiro e di sopravvivenza.</desc>
+	<desc>Ben si uni' all'esercito come lavoratore e trascorse la maggior parte del suo tempo a cucinare e a fare riparazioni. Mentre era di stanza su un pianeta pericoloso, lui si sottopose ad un addestramento basilare di tiro e di sopravvivenza.</desc>
 </ArmyCook51>
 
 <AspiringPopIdol61>
 	<title>Aspirante idolo pop</title>
 	<titleShort>Idolo pop</titleShort>
-	<desc>Min era stata istruita nel canto e nella danza per diventare il prossimo grande idolo pop. Lei è cresciuta venendo accudita dai suoi manager. Lei non ha mai conosciuto il lavoro manuale, ma ha imparato molto sulla musica e sul galateo.</desc>
+	<desc>NAME era stato(a) istruito(a) nel canto e nella danza per diventare il prossimo grande idolo pop.E' cresciuto(a) venendo accudito(a) dai suoi manager. Lei non ha mai conosciuto il lavoro manuale, ma ha imparato molto sulla musica e sul galateo.</desc>
 </AspiringPopIdol61>
 
 <AbandonedChild78>
 	<title>Bambino abbandonato</title>
 	<titleShort>Abbandonato</titleShort>
-	<desc>NAME era un(a) bambino(a) solare e vivace. Un giorno, HE si allontano' dai suoi ricchi genitori naturali, e venne definitivamente ritenuto(a) scomparso(a) in un magazzino minerario presumibilmente in disuso. Grazie alle tecniche di clonazione, i suoi genitori decisero che, piuttosto che a cercarlo, avrebbero impiegato meglio il tempo a clonare semplicemente un figlio migliore.</desc>
+	<desc>NAME era un(a) bambino(a) solare e vivace. Un giorno, HE si allontano' dai suoi ricchi genitori naturali, e venne definitivamente ritenuto(a) scomparso(a) in un magazzino minerario presumibilmente in disuso. Grazie alle tecniche di clonazione, i suoi genitori decisero che, piuttosto che a cercarlo, avrebbero impiegato mrno tempo a clonare semplicemente un figlio migliore.</desc>
 </AbandonedChild78>
 
 <AwkwardNerd12>
 	<title>Nerd disadattato</title>
 	<titleShort>Nerd</titleShort>
-	<desc>Sempre affascinato dalle macchine, Dave ha trascorso il suo tempo a studiare robotica e olografia. Preferiva la compagnia delle sue creazioni scientifiche a quella di altre persone.</desc>
+	<desc>Sempre affascinato dalle macchine, NAME ha trascorso il suo tempo a studiare robotica e olografia. Preferiva la compagnia delle sue creazioni scientifiche a quella di altre persone.</desc>
 </AwkwardNerd12>
 
 <AIResearcher30>
 	<title>Ricercatore di IA</title>
 	<titleShort>Ricercatore</titleShort>
-	<desc>Dave era un rinomato ricercatore in intelligenza artificiale, robotica e olografia interattiva. Le sue amicizie con le menti artificiali che creava gli hanno dato la fiducia per interagire con le persone reali, ed è ben presto diventato esperto nella comunicazione personale.</desc>
+	<desc>NAME era un(a) rinomato(a) ricercatore(trice) in IA, robotica e olografia interattiva. Le sue amicizie con le menti artificiali che creava gli hanno dato la fiducia per interagire con le persone reali, ed è ben presto diventato esperto nella comunicazione personale.</desc>
 </AIResearcher30>
 
 <ArmyScientist54>
@@ -88,31 +88,31 @@ Quando fu informato(a) del suo(a) assegnamento alla Xennoa-Zartza War, ha deciso
 <AceFighterPilot70>
 	<title>Asso dell'aviazione</title>
 	<titleShort>Asso</titleShort>
-	<desc>NAME si laureo' con onore alla Star Academy e si distinse come un'asso nel pilotare caccia in tre campagne contro aggressori culturalmente piu' avanzati. Tuttavia, dopo una feroce battaglia, si ritrovo' bloccato e la sua portaerei fu distrutta. Non sapendo piu' dove andare, entro' nella sua capsula di salvataggio e prego'.</desc>
+	<desc>NAME si laureo' con onore alla Star Academy e si distinse come un'asso nel pilotare caccia in tre campagne contro aggressori culturalmente piu' avanzati. Tuttavia, dopo una feroce battaglia, si ritrovo' bloccato e la sua portaerei fu distrutta. Non sapendo piu' dove andare, entro' nella sua capsula di salvataggio e prego'per il meglio.</desc>
 </AceFighterPilot70>
 
 <ArtfulDodger87>
 	<title>Abile furbacchione</title>
 	<titleShort>Furbacchione</titleShort>
-	<desc>Robin è cresciuto in una delle Ecumenopoli ed ha dovuto badare a se' stesso per tutta la vita. Non si è mai fidato di nessuno, affidandosi alla sua persuasione ed astuzia per sopravvivere. Presto divenne abile con armi da fuoco e coltelli tanto quanto con le parole.</desc>
+	<desc>NAME è cresciuto in una delle Ecumenopoli ed ha dovuto badare a se' stesso(a) per tutta la vita. Non si è mai fidato(a) di nessuno, affidandosi alla sua persuasione ed astuzia per sopravvivere. Presto divenne abile con armi da fuoco e coltelli tanto quanto con le parole.</desc>
 </ArtfulDodger87>
 
 <Assassin16>
 	<title>Killer</title>
 	<titleShort>Killer</titleShort>
-	<desc>Robin ricevette un addestramento specialistico come agente operativo in omicidi ad alto rischio. La sua abilita' con il fucile era ineguagliabile. Alla fine venne tradito dai suoi superiori quando un obiettivo venne a sapere delle cosa e si offri' di finanziare i loro progetti futuri. Robin giuro' di non fidarsi mai piu' di nessuno.</desc>
+	<desc>NAME ricevette un addestramento specialistico come agente operativo in omicidi ad alto rischio. La sua abilita' con il fucile era ineguagliabile. Alla fine venne tradito(a) dai suoi superiori quando un obiettivo venne a sapere della cosa e si offri' di finanziare i loro progetti futuri. HECAP giuro' di non fidarsi mai piu' di nessuno.</desc>
 </Assassin16>
 
 <AmateurEngineer21>
 	<title>Ingegnere dilettante</title>
 	<titleShort>Ingegnere</titleShort>
-	<desc>NAME crebbe in una famiglia con un'impostazione militare e tecnica. HECAP voleva unirsi all'esercito ma a suo padre non piaceva l'idea, quindi il suo interesse si rivolse a grandi macchine volanti ed opere di ingegneria. HECAP sperava segretamente che questo lo(a) avrebbe condotto(a) un giorno ad una vita di esplorazione galattica.</desc>
+	<desc>NAME crebbe in una famiglia con un'impostazione militare e tecnica. HECAP voleva unirsi all'esercito ma a suo padre non piaceva l'idea, quindi il suo interesse si rivolse a grandi macchine volanti ed opere di ingegneria. HECAP sperava segretamente che questo l'avrebbe condotto(a) un giorno ad una vita di esplorazione galattica.</desc>
 </AmateurEngineer21>
 
 <AlcoholicTrucker38>
 	<title>Camionista alcolizzato</title>
 	<titleShort>Alcolizzato</titleShort>
-	<desc>NAME era un camionista spaziale che lavorava per le Industrie Arcknight quando uccise moglie e figlia in un incidente. Il suo corpo venne riparato con una terapia nano-genetica sperimentale. Ora i suoi muscoli si rigenerano e si induriscono continuamente, ed ogni movimento strappa di nuovo il tessuto. Sopporta il dolore in silenzio.</desc>
+	<desc>NAME era un camionista spaziale che lavorava per le Industrie ArckNight quando uccise coniuge e figlia in un incidente. Il suo corpo venne riparato con una terapia nano-genetica sperimentale. Ora i suoi muscoli si rigenerano e si induriscono continuamente, ed ogni movimento strappa di nuovo il tessuto. Sopporta il dolore in silenzio.</desc>
 </AlcoholicTrucker38>
 
 <ArtisanFarmer56>
@@ -124,31 +124,31 @@ Quando fu informato(a) del suo(a) assegnamento alla Xennoa-Zartza War, ha deciso
 <AIProgrammer5>
 	<title>Programmatore di IA</title>
 	<titleShort>Programmatore</titleShort>
-	<desc>Michael si arruolo' nella divisione robotica militare, sviluppando IA da combattimento piu' intelligenti. In tutto il tempo che trascorse la', lui non parlo' mai con nessun altro umano. Passo' tutto il suo tempo a parlare con le IA che stava sviluppando.</desc>
+	<desc>NAME si arruolo' nella divisione robotica militare, sviluppando IA da combattimento piu' intelligenti. In tutto il tempo che trascorse la', HECAP non parlo' mai con nessun'altro umano. Passo' tutto il suo tempo a parlare con le IA che stava sviluppando.</desc>
 </AIProgrammer5>
 
 <AmateurBotanist14>
 	<title>Botanico dilettante</title>
 	<titleShort>Botanico</titleShort>
-	<desc>Dopo aver trascorso molte estati a strisciare nella terra, Christian capi' di avere davvero il pollice verde. Invece di imparare a cucinare il cibo che coltivava, si limitava a coltivarne sempre di piu'.</desc>
+	<desc>Dopo aver trascorso molte estati a lavorare la terra, NAME capi' di avere davvero il pollice verde. Invece di imparare a cucinare il cibo che coltivava, si limitava a coltivarne sempre di piu'.</desc>
 </AmateurBotanist14>
 
 <AdventuringChild56>
 	<title>Bambino avventuroso</title>
 	<titleShort>Avventuriero</titleShort>
-	<desc>Axle venne cresciuto per diventare un ingegnere. Per anni, ha pensato di nascondersi su una nave da carico ed iniziare una nuova vita piu' avventurosa. Una notte, dopo che i suoi genitori si erano addormentati, riusci' a sgattaiolare su una nave da carico appena prima che lasciasse il porto.</desc>
+	<desc>NAME venne cresciuto per diventare un ingegnere. Per anni, ha pensato di nascondersi su una nave da carico ed iniziare una nuova vita piu' avventurosa. Una notte, dopo che i suoi genitori si erano addormentati, riusci' a sgattaiolare su una nave da carico appena prima che lasciasse il porto.</desc>
 </AdventuringChild56>
 
 <ApocalypseChild97>
 	<title>Bambino dell'apocalisse</title>
 	<titleShort>Superstite</titleShort>
-	<desc>NAME ha trascorso la sua infanzia in un mondo post-apocalittico. Fin da giovane, lui ha combattuto per la sopravvivenza su un pianeta dove la fiducia non esisteva. Ha sempre detto a tutti di non avere nessuna fortuna.</desc>
+	<desc>NAME ha trascorso la sua infanzia in un mondo post-apocalittico. Fin da giovane, HECAP ha combattuto per la sopravvivenza su un pianeta dove la fiducia non esisteva. Ha sempre detto a tutti di non avere nessuna fortuna.</desc>
 </ApocalypseChild97>
 
 <ArtificerRampant50>
 	<title>Artificiere rampante</title>
 	<titleShort>Artificiere</titleShort>
-	<desc>Alimentato dal brivido della scoperta e dalla sua stessa megalomania, NAME si prefisse lo scopo di inventare nuovi dispositivi e di perfezonare quelli esistenti, violando leggi e tradizioni, se necessario. HECAP formo' una squadra per raccogliere materiali per il suo lavoro - e per trattare con gli estranei che potevano interferire.</desc>
+	<desc>Alimentato(a) dal brivido della scoperta e dalla sua stessa megalomania, NAME si prefisse lo scopo di inventare nuovi dispositivi e di perfezionare quelli esistenti, violando leggi e tradizioni, se necessario. HECAP formo' una squadra per raccogliere materiali per il suo lavoro - e per trattare con gli estranei che potevano interferire.</desc>
 </ArtificerRampant50>
 
 <Abductee39>
@@ -160,7 +160,7 @@ Quando fu informato(a) del suo(a) assegnamento alla Xennoa-Zartza War, ha deciso
 <AcademyStudent52>
 	<title>Studente dell'Accademia</title>
 	<titleShort>Studente</titleShort>
-	<desc>NAME ha frequentato la scuola come avrebbe fatto un bravo cadetto spaziale. Lui era molto alto ed era noto per il suo bell'aspetto. Anche se piu' preoccupato della sua acconciatura che dei suoi voti, è sempre riuscito a passare in qualche modo gli esami finali.</desc>
+	<desc>NAME ha frequentato la scuola come avrebbe fatto un bravo cadetto spaziale. HECAP era molto alto(a) ed era noto(a) per il suo bell'aspetto. Anche se piu' preoccupato(a) della sua acconciatura che dei suoi voti, è sempre riuscito(a) a passare in qualche modo gli esami finali.</desc>
 </AcademyStudent52>
 
 <AspiringEngineer42>
@@ -172,7 +172,7 @@ Quando fu informato(a) del suo(a) assegnamento alla Xennoa-Zartza War, ha deciso
 <AspergersRebel96>
 	<title>Ribelle di Asperger</title>
 	<titleShort>Ribelle</titleShort>
-	<desc>NAME è cresciuto come ribelle su un pianeta dell'orlo un tempo avanzato ma ora devastato dalla guerra. La sua sindrome di Asperger lo ha obbligato a lottare contro situazioni sociali ed era incapace di prendersi cura degli altri, ma HE ha acquisito competenze difficili come la ricerca e un tiro molto rapido.</desc>
+	<desc>NAME è cresciuto come ribelle su un pianeta prima avanzato ma ora devastato dalla guerra. La sua sindrome di Asperger l'ha obbligato(a) a lottare contro situazioni sociali ed era incapace di prendersi cura degli altri, ma HE ha acquisito competenze difficili come la ricerca e un tiro molto rapido.</desc>
 </AspergersRebel96>
 
 <AcolyteOfStars66>
